@@ -10,6 +10,9 @@ This model classifies CT scan images of lungs into three categories:
 The system is designed to reject non-CT scan images to ensure robustness against irrelevant inputs.
 The trained model is served via a Flask API (`app.py`), enabling web or mobile integration.
 
+interface-
+<img width="674" height="505" alt="image" src="https://github.com/user-attachments/assets/fe8c8e2a-b818-454b-a7d8-bb7e0bed297d" />
+
 ---
 
 ## Features
